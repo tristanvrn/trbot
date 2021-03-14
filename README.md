@@ -1,0 +1,2 @@
+# kazzcord
+NodeJS Discord bot.
