@@ -1,0 +1,31 @@
+{
+  "name": "kazzcord",
+  "version": "1.0.0",
+  "description": "NodeJS Discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0ct3ri4/kazzcord.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "discord",
+    "bot",
+    "kazzookay",
+    "kazzcord"
+  ],
+  "author": "n0ct3ri4",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/n0ct3ri4/kazzcord/issues"
+  },
+  "homepage": "https://github.com/n0ct3ri4/kazzcord#readme",
+  "dependencies": {
+    "discord.js": "12.5.1",
+    "kaliscripter": "1.0.7"
+  }
+}
