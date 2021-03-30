@@ -9,7 +9,7 @@ module.exports = {
             });
           } else {
             member.ban({
-              reason: "Pas de raison(s) spécifiée(s).",
+              reason: "Pas de raison(s) indiquée(s).",
             });
           }
         } else {
@@ -20,7 +20,7 @@ module.exports = {
       }
     } else {
       return msg.reply(
-        "Vous n'avez pas la permission d'exécuter cette commande."
+        "Vous n'êtes pas autorisé à exécuter cette commande."
       );
     }
   },
